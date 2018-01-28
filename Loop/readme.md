@@ -1,4 +1,4 @@
-##Loop
+## Loop
 
 1. `Write a program to print all natural numbers from 1 to n.`
 
