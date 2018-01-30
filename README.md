@@ -1,5 +1,5 @@
 # Code101
-This repository consist of pratice question for beginners.
+This repository consist of practice question for beginners.
 
  - [Conditional](Conditional/readme.md)
  - [Loop](Loop/readme.md)
