@@ -32,3 +32,33 @@
 ```
 11. Find the minimum element in a sorted and rotated array
 ```
+```
+12. Rearrange positive and negative numbers in O(n) time and O(1) extra space
+```
+```
+13. Write a program to reverse an array or string
+```
+```
+14. Sort an array in wave form
+```
+```
+15. Rearrange positive and negative numbers with constant extra space
+```
+```
+16. Sort an array according to absolute difference with given value
+```
+```
+17. Move all negative elements to end in order with extra space allowed
+```
+```
+18. Three way partitioning of an array around a given range
+```
+```
+19. Rearrange an array in maximum minimum form | Set 1
+```
+```
+20. Rearrange an array in maximum minimum form | Set 2 (O(1) extra space)
+```
+```
+21. Maximum Length Bitonic Subarray
+```
