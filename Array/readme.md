@@ -62,3 +62,63 @@
 ```
 21. Maximum Length Bitonic Subarray
 ```
+```
+22. Maximize sum of consecutive differences in a circular array
+```
+```
+23. Alternative Sorting
+```
+```
+24. Segregate 0s and 1s in an array
+```
+```
+25. Segregate Even and Odd numbers
+```
+```
+26. Longest Bitonic Subsequence
+```
+```
+27. Find a sorted subsequence of size 3 in linear time
+```
+```
+28. Largest subarray with equal number of 0s and 1s
+```
+```
+29. Dynamic Programming | Set 18 (Partition problem)
+```
+```
+30. Maximum Product Sub-array
+```
+```
+31. Replace every element with the greatest element on right side
+```
+```
+32. Sort a nearly sorted (or K sorted) array
+```
+```
+33. Maximum circular subarray sum
+```
+```
+34. Shuffle a given array
+```
+```
+35. Construction of Longest Increasing Subsequence (N log N)
+```
+```
+36. Arrange given numbers to form the biggest number
+```
+```
+37. Divide and Conquer | Set 3 (Maximum Subarray Sum)
+```
+```
+38. Sort elements by frequency | Set 2
+```
+```
+39. Merge k sorted arrays
+```
+```
+40. Sort an array according to the order defined by another array
+```
+```
+41. Find Index of 0 to be replaced with 1 to get longest continuous sequence of 1s in a binary array
+```
