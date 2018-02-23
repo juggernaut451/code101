@@ -122,3 +122,63 @@
 ```
 41. Find Index of 0 to be replaced with 1 to get longest continuous sequence of 1s in a binary array
 ```
+```
+42. k largest(or smallest) elements in an array | added Min Heap method
+```
+```
+43. Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1
+```
+```
+44. Program to find largest element in an array
+```
+```
+45. K’th Smallest/Largest Element in Unsorted Array | Set 1
+```
+```
+46. K’th Smallest/Largest Element in Unsorted Array | Set 2 (Expected Linear Time)
+```
+```
+47. K’th Smallest/Largest Element in Unsorted Array | Set 3 (Worst Case Linear Time)
+```
+```
+48. Find the largest three elements in an array
+```
+```
+49. Find all elements in array which have at-least two greater elements
+```
+```
+50. Find k pairs with smallest sums in two arrays
+```
+```
+51. k-th smallest absolute difference of two elements in an array
+```
+```
+52. Find Second largest element in an array
+```
+```
+53. Find k numbers with most occurrences in the given array
+```
+```
+54. Find the smallest and second smallest elements in an array
+```
+```
+55. Next Greater Element
+```
+```
+56. Find the smallest missing number
+```
+```
+57. Maximum sum such that no two elements are adjacent
+```
+```
+58. Maximum and minimum of an array using minimum number of comparisons
+```
+```
+59. Maximum difference between two elements such that larger element appears after the smaller number
+```
+```
+60. Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
+```
+```
+61. Maximum of all subarrays of size k
+```
