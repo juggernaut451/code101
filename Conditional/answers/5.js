@@ -1,5 +1,5 @@
 
-// Write a program to check whether a number is even or odd.
+//Write a program to check whether a number is even or odd.
 
 function evenOdd(x){
 	if(x%2==0){console.log("Even");
